@@ -1,0 +1,6 @@
+name: Sample
+version: 1.0.0
+main: com.sample.Main
+description: This Plugin is Sample Plugin.
+author: PerfectLove
+commands:
